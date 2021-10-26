@@ -1,9 +1,9 @@
-### Hi there, I'm Aftab! 👋
+## Hi there, I'm Aftab! 👋
 
-# Hi, I'm Akhil Kasare, an undergraduate student from A.C Patil College Of Engineering,Kharghar 🚀 from India,
-# Working as a Technical Support Engg 🙍🏽‍♂️ at [Exponentia.ai].
+### Hi, I'm Akhil Kasare, an undergraduate student from A.C Patil College Of Engineering,Kharghar 🚀 from India,
+### Working as a Technical Support Engg 🙍🏽‍♂️ at [Exponentia.ai].
 
-# Beside's developing stuff, I enjoy listening music 🎧, learning about AI 📚, and traveling 🏝️🗻.
+### Beside's developing stuff, I enjoy listening music 🎧, learning about AI 📚, and traveling 🏝️🗻.
 
 
 - 🔭 I’m currently working on Pytorch
