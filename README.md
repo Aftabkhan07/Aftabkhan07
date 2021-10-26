@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Aftab! 👋
 
-<!--
-**aftabkhan07/aftabkhan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Akhil Kasare, an undergraduate student from A.C Patil College Of Engineering,Kharghar 🚀 from India,
+# Working as a Technical Support Engg 🙍🏽‍♂️ at [Exponentia.ai].
 
-Here are some ideas to get you started:
+# Beside's developing stuff, I enjoy listening music 🎧, learning about AI 📚, and traveling 🏝️🗻.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+- 🔭 I’m currently working on Pytorch
+- 🌱 I’m currently learning Deep learning
+- 👯 I’m looking to collaborate on Abatinator
+- 🤔 I’m looking for help with 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: khanaftaba1@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
