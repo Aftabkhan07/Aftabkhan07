@@ -1,14 +1,14 @@
 ### Hey there, I'm Aftab! 👋
 
-#### Hi, I'm Aftab Khan, an undergraduate student from A.C Patil College Of Engineering,Kharghar 🚀 from India, Working as a Technical Support Engg 🙍🏽‍♂️ at [Exponentia.ai].
+#### Hi, I'm Aftab Khan, an undergraduate student from A.C Patil College Of Engineering,Kharghar 🚀 from India, Working as a Associate test Enggineer🏽‍♂️ at [Exponentia.ai].
 
 #### Beside's developing stuff, I enjoy listening music 🎧, learning about AI 📚, and traveling 🏝️🗻.
 
-- 🔭 I’m currently working on Pytorch
-- 🌱 I’m currently learning Deep learning
-- 👯 I’m looking to collaborate on Abatinator
+- 🔭 I’m currently working on my Tensorflow library
+- 🌱 I’m currently learning Machine learning and Datascience
+- 👯 I’m looking to collaborate on a new ineuron project
 - 🤔 I’m looking for help with Machine learning problems
-- 💬 Ask me about any Tech related stuff
+- 💬 Ask me about anything related to Deep learning
 - 📫 How to reach me: khanaftaba1@gmail.com
 - ⚡ Fun fact: Text data comprise 91 percent of the data used in data science
 
