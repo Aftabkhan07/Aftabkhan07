@@ -1,6 +1,6 @@
 ### Hey there, I'm Aftab! 👋
 
-#### Hi, I'm Aftab Khan, an undergraduate student from A.C Patil College Of Engineering,Kharghar 🚀 from India, Working as a Associate test Enggineer🏽‍♂️ at [Exponentia.ai].
+#### Hi, I'm Aftab Khan, an undergraduate student from A.C Patil College Of Engineering,Kharghar 🚀 from India, Working as a Associate test Enggineer🏽‍ at [Exponentia.ai].
 
 #### Beside's developing stuff, I enjoy listening music 🎧, learning about AI 📚, and traveling 🏝️🗻.
 
