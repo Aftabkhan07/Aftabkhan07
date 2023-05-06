@@ -17,7 +17,3 @@
 
 [![Follow](https://img.shields.io/twitter/follow/khanaftaba1?style=social)](https://twitter.com/intent/follow?screen_name=khanaftaba1)  <a href="https://www.linkedin.com/in/aftab-khan-3584a3154/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
 
-  
-<a href="https://www.linkedin.com/in/aftab-khan-3584a3154/" target="_blank" rel="noopener noreferrer"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/></a>
-<a href="https://twitter.com/khanaftaba1" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="20" height="20"/></a>
-<a href="mailto:youremail@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="20" height="20"/></a>
