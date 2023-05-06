@@ -15,13 +15,10 @@
 ⚡ Fun fact: Text data comprise 91 percent of the data used in data science
 
 
-[![Follow](https://img.shields.io/twitter/follow/khanaftaba1?style=social)](https://twitter.com/intent/follow?screen_name=khanaftaba1)    
-<a href="https://www.linkedin.com/in/aftab-khan-3584a3154/">
+[![Follow](https://img.shields.io/twitter/follow/khanaftaba1?style=social)](https://twitter.com/intent/follow?screen_name=khanaftaba1)    <a href="https://www.linkedin.com/in/aftab-khan-3584a3154/">
   <img align="left" alt="Aftab's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/aftabkhan_7/">
+</a> <a href="https://www.instagram.com/aftabkhan_7/">
   <img align="left" alt="Akhil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://medium.com/@akhil.kasare80">
+</a> <a href="https://medium.com/@akhil.kasare80">
   <img align="left" alt="Akhil's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
