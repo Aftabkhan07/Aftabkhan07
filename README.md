@@ -4,7 +4,6 @@
 
 #### Beside's developing stuff, I enjoy listening music 🎧, learning about AI 📚, and traveling 🏝️🗻.
 
-- 🔭 I’m currently working on different projects related to Data science.
 - 🌱 I’m currently learning Full stack data science
 - 🤔 I’m looking for help with Machine learning projects
 - 💬 Ask me about anything, I am happy to help
