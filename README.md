@@ -5,7 +5,7 @@
 #### Beside's developing stuff, I enjoy listening music 🎧, learning about AI 📚, and traveling 🏝️🗻.
 
 - 🌱 I’m currently learning Full stack data science
-- 🤔 I’m looking for help with Machine learning projects
+- 🤔 I’m looking for help with ML/DL projects
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: khanaftaba1@gmail.com
 - ⚡ Fun fact: Text data comprise 91 percent of the data used in data science
