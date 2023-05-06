@@ -14,6 +14,5 @@
 
 ⚡ Fun fact: Text data comprise 91 percent of the data used in data science
 
-<br>
 
 [![Follow](https://img.shields.io/twitter/follow/khanaftaba1?style=social)](https://twitter.com/intent/follow?screen_name=khanaftaba1)  <a href="https://www.linkedin.com/in/aftab-khan-3584a3154/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
