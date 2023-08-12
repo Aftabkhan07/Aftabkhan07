@@ -4,9 +4,9 @@
 
 #### Beside's developing stuff, I enjoy listening music 🎧, learning about AI 📚, and traveling 🏝️🗻.
 
-🌱 I’m currently learning Full stack data science
+🌱 I’m currently learning Full stack data science part time
 
-🤔 I’m looking for help with ML/DL projects
+🤔 I’m looking for help with Netflix-clone project
 
 💬 Ask me about anything, I am happy to help
 
