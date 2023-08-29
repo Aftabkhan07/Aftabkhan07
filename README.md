@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Full stack data science part time
 
-🤔 I’m looking for help with Netflix-clone project
+🤔 I’m looking for help with Whatsapp-clone project
 
 💬 Ask me about anything, I am happy to help
 
