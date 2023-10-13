@@ -1,6 +1,6 @@
 ### Hey there, I'm Aftab! 👋
 
-#### Hi, I'm Aftab Khan, an undergraduate student from A.C Patil College Of Engineering, Kharghar 🚀 from India, Working as a Software Engineer at [Apical Innovations].
+#### Hi, I'm Aftab Khan, an undergraduate student from A.C Patil College Of Engineering, India. Worked in 2 startups from 2021-2023, Currently Persuing PostGraduation in Artificial Intelligence from Fleming College, Canada.
 
 #### Beside's developing stuff, I enjoy listening music 🎧, learning about AI 📚, and traveling 🏝️🗻.
 
