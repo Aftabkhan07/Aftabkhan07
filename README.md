@@ -1,12 +1,12 @@
 ### Hey there, I'm Aftab! 👋
 
-#### Hi, I'm Aftab Khan, an undergraduate student from A.C Patil College Of Engineering, India. Worked in 2 startups from 2021-2023, Currently Persuing PostGraduation in Artificial Intelligence from Fleming College, Ontario.
+#### Hi, I'm Aftab Khan, Currently Persuing PostGraduation in Cloud Architecture from Seneca College, Toronto, Ontario.
 
-#### Beside's developing stuff, I enjoy listening music 🎧, learning about AI 📚, and traveling 🏝️🗻.
+#### Beside's developing stuff, I enjoy listening music🎧, learning about AI📚, and traveling🏝️🗻.
 
-🌱 I’m currently learning Full stack data science part time
+🌱 I’m currently studying for my Solution Architect Exam for AWS
 
-🤔 I’m looking for help with Airbnb-clone project
+🤔 I’m looking for people to collaborate on projects
 
 💬 Ask me about anything, I am happy to help
 
