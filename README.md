@@ -1,6 +1,6 @@
 ### Hey there, I'm Aftab! 👋
 
-#### Hi, I'm Aftab Khan, Currently Persuing PostGraduation in Cloud Architecture from Seneca College, Toronto, Ontario.
+#### Hi, I'm Aftab Khan, Currently persuing postgraduation in Cloud Architecture from Seneca College, Toronto, Ontario.
 
 #### Beside's developing stuff, I enjoy listening music🎧, learning about AI📚, and traveling🏝️🗻.
 
