@@ -4,7 +4,7 @@
 
 #### Beside's developing stuff, I enjoy listening Podcasts🎧, learning about AI📚, and Traveling🏝️🗻.
 
-🌱 I’m currently studying for my SaaS Ecom Webapp
+🌱 I’m currently working on my SaaS Ecom Webapp
 
 🤔 I’m looking for people to collaborate on projects
 
